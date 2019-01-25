@@ -1,0 +1,7 @@
+Adminisreador
+usuário: admin.desapega
+senha: pass@word91
+
+Operador
+usuário: joao.desapega@desapega.com.br
+senha: 123456
